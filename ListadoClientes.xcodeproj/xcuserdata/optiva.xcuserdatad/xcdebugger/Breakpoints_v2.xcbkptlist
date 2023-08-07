@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AB764F76-296F-49BA-AB2E-108C3A2EBF43"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F5C8E839-3131-4CB3-B49C-8C6696AB1365"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ListadoClientes/ClienteListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "realizarLlamada(telefono:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "004E0DDB-8940-4BE3-8294-56BFAEAE9BC0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ListadoClientes/ClienteListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "clientesFiltrados"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "004E0DDB-8940-4BE3-8294-56BFAEAE9BC0 - 119998e6b8d1851"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ListadoClientes.ClienteListView.clientesFiltrados.getter : Swift.Array&lt;ListadoClientes.Cliente&gt;"
+                  moduleName = "ListadoClientes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/optiva/Desktop/ListadoClientes/ListadoClientes/ClienteListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "494">
+               </Location>
+               <Location
+                  uuid = "004E0DDB-8940-4BE3-8294-56BFAEAE9BC0 - 818be3c0cd03debe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (ListadoClientes.Cliente) -&gt; Swift.Bool in ListadoClientes.ClienteListView.clientesFiltrados.getter : Swift.Array&lt;ListadoClientes.Cliente&gt;"
+                  moduleName = "ListadoClientes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/optiva/Desktop/ListadoClientes/ListadoClientes/ClienteListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2930F0BA-E6DA-4698-B6E2-4AC773584A52"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ListadoClientes/ClienteListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "clientesFiltrados"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "2930F0BA-E6DA-4698-B6E2-4AC773584A52 - 119998e6b8d1b97"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ListadoClientes.ClienteListView.clientesFiltrados.getter : Swift.Array&lt;ListadoClientes.Cliente&gt;"
+                  moduleName = "ListadoClientes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/optiva/Desktop/ListadoClientes/ListadoClientes/ClienteListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "998">
+               </Location>
+               <Location
+                  uuid = "2930F0BA-E6DA-4698-B6E2-4AC773584A52 - eba7d64833e48b7f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (ListadoClientes.Cliente) -&gt; Swift.Bool in ListadoClientes.ClienteListView.clientesFiltrados.getter : Swift.Array&lt;ListadoClientes.Cliente&gt;"
+                  moduleName = "ListadoClientes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/optiva/Desktop/ListadoClientes/ListadoClientes/ClienteListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

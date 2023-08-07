@@ -14,6 +14,8 @@
 		F6E05C162A7EB16C00829E98 /* ListadoClientesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6E05C152A7EB16C00829E98 /* ListadoClientesTests.swift */; };
 		F6E05C202A7EB16C00829E98 /* ListadoClientesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6E05C1F2A7EB16C00829E98 /* ListadoClientesUITests.swift */; };
 		F6E05C222A7EB16C00829E98 /* ListadoClientesUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6E05C212A7EB16C00829E98 /* ListadoClientesUITestsLaunchTests.swift */; };
+		F6E05C2F2A7EBA0800829E98 /* Cliente.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6E05C2E2A7EBA0800829E98 /* Cliente.swift */; };
+		F6E05C332A7EBF4300829E98 /* ClienteListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6E05C322A7EBF4300829E98 /* ClienteListView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +46,8 @@
 		F6E05C1B2A7EB16C00829E98 /* ListadoClientesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ListadoClientesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F6E05C1F2A7EB16C00829E98 /* ListadoClientesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListadoClientesUITests.swift; sourceTree = "<group>"; };
 		F6E05C212A7EB16C00829E98 /* ListadoClientesUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListadoClientesUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F6E05C2E2A7EBA0800829E98 /* Cliente.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cliente.swift; sourceTree = "<group>"; };
+		F6E05C322A7EBF4300829E98 /* ClienteListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClienteListView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +100,8 @@
 			children = (
 				F6E05C042A7EB16A00829E98 /* ListadoClientesApp.swift */,
 				F6E05C062A7EB16A00829E98 /* ContentView.swift */,
+				F6E05C322A7EBF4300829E98 /* ClienteListView.swift */,
+				F6E05C2E2A7EBA0800829E98 /* Cliente.swift */,
 				F6E05C082A7EB16C00829E98 /* Assets.xcassets */,
 				F6E05C0A2A7EB16C00829E98 /* Preview Content */,
 			);
@@ -259,6 +265,8 @@
 			files = (
 				F6E05C072A7EB16A00829E98 /* ContentView.swift in Sources */,
 				F6E05C052A7EB16A00829E98 /* ListadoClientesApp.swift in Sources */,
+				F6E05C2F2A7EBA0800829E98 /* Cliente.swift in Sources */,
+				F6E05C332A7EBF4300829E98 /* ClienteListView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

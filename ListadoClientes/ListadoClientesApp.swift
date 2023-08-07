@@ -2,7 +2,7 @@
 //  ListadoClientesApp.swift
 //  ListadoClientes
 //
-//  Created by optiva on 5/8/23.
+//  Created by Víctor Ramos on 5/8/23.
 //
 
 import SwiftUI

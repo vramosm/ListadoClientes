@@ -2,20 +2,14 @@
 //  ContentView.swift
 //  ListadoClientes
 //
-//  Created by optiva on 5/8/23.
+//  Created by Víctor Ramos on 5/8/23.
 //
 
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundColor(.accentColor)
-            Text("Hello, world!")
-        }
-        .padding()
+        ClienteListView()
     }
 }
 
